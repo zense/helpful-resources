@@ -1,5 +1,5 @@
 # Helpful Resources for Design
 
-## This is a sample sub-topic
+## YouTube channels
 Very Helpful YouTube channel covering both designing stuff and coding them up - [DesignCourse](https://www.youtube.com/c/DesignCourse
 )
